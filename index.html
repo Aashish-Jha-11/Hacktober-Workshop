@@ -1,0 +1,45 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hacktoberfest Workshop Demo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Welcome to Hacktoberfest Workshop 🚀</h1>
+    <p>
+      This is a demo project for beginners to make their first Pull Request.
+    </p>
+
+    <h2>Contributors ✨</h2>
+    <ul id="contributors">
+      <li>🚀 Your Name Here</li>
+    </ul>
+
+    <h2>Motivational Quotes 💡</h2>
+    <div id="quotes"></div>
+
+    <button id="colorBtn">Click me for magic ✨</button>
+
+    <script>
+      fetch("quotes.json")
+        .then((response) => response.json())
+        .then((data) => {
+          const container = document.getElementById("quotes");
+          data.forEach((q) => {
+            const p = document.createElement("p");
+            p.textContent = `“${q.quote}” — ${q.author}`;
+            container.appendChild(p);
+          });
+        });
+
+      // Button color change demo
+      document.getElementById("colorBtn").addEventListener("click", () => {
+        document.body.style.backgroundColor =
+          document.body.style.backgroundColor === "lightblue"
+            ? "white"
+            : "lightblue";
+      });
+    </script>
+  </body>
+</html>
