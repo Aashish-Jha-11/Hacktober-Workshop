@@ -1,0 +1,3 @@
+-Name:- Aniruddha Dwivedi
+- about me: Familiar with all the terms , ( I know JAVA and PYTHON . basics se thoda upar.)
+- fun fact- I love open source !
