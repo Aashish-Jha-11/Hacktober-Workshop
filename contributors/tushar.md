@@ -1,4 +1,4 @@
 # My First Contribution
 
-- Name: Aniruddha Dwivedi
+- Name:Tushar
 - Fun fact: I love open source!
