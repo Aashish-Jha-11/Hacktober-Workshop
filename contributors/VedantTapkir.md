@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on A minor project for shop listings
 - 🌱 I’m currently learning Python, JS, HTML & CSS
-- 👯 I’m looking to collaborate in Hacktoberfest
+- 👯 I’m looking to collaborate in Hacktoberfest (Beginner)
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about Python
-- 📫 How to reach me: vedanttapkri@gmail.com | Discord - vedanttapkir#9790
+- 📫 How to reach me: vedanttapkir@gmail.com | Discord - vedanttapkir#9790
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
