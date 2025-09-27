@@ -1,3 +1,3 @@
 - Name: Aadarsh Lekhwani
-- About me: beginner
+- About me: Beginner
 - Fun fact: I love open source!
