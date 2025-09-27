@@ -1,0 +1,3 @@
+- Name: Jash
+- About me: Familiar with git and github, contributed on a random repository https://github.com/JashSanka/lab-css-recipes-clone.git, tech stack complete HTML/CSS
+- Fun Fact: I love Open Source!
